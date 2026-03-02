@@ -1,0 +1,14 @@
+C:\Users\chris\OneDrive\Documentos\githubProjetos\aprendendo#\aprendendoc#6\obj\Debug\net10.0\aprendendoc#6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Documentos\githubProjetos\aprendendo#\aprendendoc#6\obj\Debug\net10.0\aprendendoc#6.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Documentos\githubProjetos\aprendendo#\aprendendoc#6\obj\Debug\net10.0\aprendendoc#6.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Documentos\githubProjetos\aprendendo#\aprendendoc#6\obj\Debug\net10.0\aprendendoc#6.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documentos\githubProjetos\aprendendo#\aprendendoc#6\bin\Debug\net10.0\aprendendoc#6.exe
+C:\Users\chris\OneDrive\Documentos\githubProjetos\aprendendo#\aprendendoc#6\bin\Debug\net10.0\aprendendoc#6.deps.json
+C:\Users\chris\OneDrive\Documentos\githubProjetos\aprendendo#\aprendendoc#6\bin\Debug\net10.0\aprendendoc#6.runtimeconfig.json
+C:\Users\chris\OneDrive\Documentos\githubProjetos\aprendendo#\aprendendoc#6\bin\Debug\net10.0\aprendendoc#6.dll
+C:\Users\chris\OneDrive\Documentos\githubProjetos\aprendendo#\aprendendoc#6\bin\Debug\net10.0\aprendendoc#6.pdb
+C:\Users\chris\OneDrive\Documentos\githubProjetos\aprendendo#\aprendendoc#6\obj\Debug\net10.0\aprendendoc#6.dll
+C:\Users\chris\OneDrive\Documentos\githubProjetos\aprendendo#\aprendendoc#6\obj\Debug\net10.0\refint\aprendendoc#6.dll
+C:\Users\chris\OneDrive\Documentos\githubProjetos\aprendendo#\aprendendoc#6\obj\Debug\net10.0\aprendendoc#6.pdb
+C:\Users\chris\OneDrive\Documentos\githubProjetos\aprendendo#\aprendendoc#6\obj\Debug\net10.0\aprendendoc#6.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Documentos\githubProjetos\aprendendo#\aprendendoc#6\obj\Debug\net10.0\ref\aprendendoc#6.dll
